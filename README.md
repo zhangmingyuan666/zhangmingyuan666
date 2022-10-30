@@ -1,4 +1,10 @@
-### Hi there 👋
+## 🎃 Hi,this is Ming's github~
+### 🎃 A Frontend Developer~
+### 🎃 My Blog
+#### <a href="https://www.yuque.com/u26769454">我的语雀</a>
+#### <a href="https://forum.gdutelc.com/u/SC30CR7/activity">我的Elc Blog</a>
+#### ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangmingyuan666)
+#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangmingyuan666)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zhangmingyuan666/zhangmingyuan666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
