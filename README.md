@@ -1,6 +1,6 @@
 🎃 Hi,this is Ming's github
 
-🔭 I’m currently working in **guangzhou** / Undergraduate of **GDUT**
+🔭 I’m currently working in **Tencent WXG** / Undergraduate of **GDUT**
 
 🌱 I’m currently learning everything about **front-end**
 
@@ -19,7 +19,7 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhangmingyuan666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangmingyuan666&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br>
 
 **My past**
-* alibaba + baidu + fabrie intern
+* alibaba + baidu + fabrie interned student
 * gdutelc ELC member
 * owner of gdutdays wechat mini-program
 
