@@ -1,18 +1,8 @@
 🎃 Hi,this is Ming's github
 
-🔭 I’m currently working in **Tencent WXG** / Undergraduate of **GDUT**
-
-🌱 I’m currently learning everything about **front-end**
-
-👯 I’m looking to collaborate on some attractive **open source** projects
-
-⚡️ Fun fact: it's a pity that i'm a **IC** student / current working in front-end development
-
-🌞 Future: Be a front-end ➡️ full-stack software engineer
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<em><b>Thinking and coding are both important :)</b></em>
+<em>🔭 I’m currently working in **Tencent WXG** / Undergraduate of **GDUT**</em>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
