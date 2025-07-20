@@ -2,7 +2,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<em>🔭 I’m currently working in **Tencent WXG** / Undergraduate of **GDUT**</em>
+<em>🔭 I’m currently working in **Tencent WXG** </em>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -10,8 +10,9 @@
 
 **My past**
 * **alibaba + baidu + fabrie** interned student
-* **gdutelc** member
 * **owner** of **gdutdays** wechat mini-program
+* **gdutelc** member
+* graduated from **GDUT**
 
 
 <!--
